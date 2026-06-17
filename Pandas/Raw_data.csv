@@ -1,0 +1,21 @@
+,Order_ID,Customer_Name,Product,Category,Quantity,Price_per_unit,Order_Date,City,Total_revenue
+0,1001,Ali,Laptop,Electronics,2.0,50000.0,2024-01-05 00:00:00.000000,Lahore,100000.0
+1,1002,Sara,Mouse,Accessories,1.0,1500.0,2024-02-10 00:00:00.000000,Karachi,1500.0
+2,1003,Hira,Keyboard,Accessories,3.0,17241.176470588234,2024-03-12 00:00:00.000000,Islamabad,51723.5294117647
+3,1004,Zain,Mobile,Electronics,1.0,40000.0,2024-01-25 00:00:00.000000,Multan,40000.0
+4,1005,Nida,Tablet,general,2.0,27000.0,2024-02-28 00:00:00.000000,Faisalabad,54000.0
+5,1006,Unknown,Monitor,Electronics,1.0,30000.0,2024-03-15 00:00:00.000000,Quetta,30000.0
+6,1007,Mariam,Speaker,Accessories,1.0,4500.0,2024-04-08 00:00:00.000000,Peshawar,4500.0
+7,1008,Usman,Headphones,Accessories,3.0,3500.0,2025-08-08 23:38:10.404748,Lahore,10500.0
+8,1009,Areeba,Webcam,Accessories,1.0,2200.0,2024-03-30 00:00:00.000000,Unknown,2200.0
+9,1010,Hassan,Charger,Accessories,4.0,1200.0,2024-02-18 00:00:00.000000,Islamabad,4800.0
+10,1011,Adeel,Keyboard,Accessories,3.0,1500.0,2024-03-20 00:00:00.000000,Karachi,4500.0
+11,1012,Zoya,Tablet,Electronics,2.0,17241.176470588234,2024-02-15 00:00:00.000000,Lahore,34482.35294117647
+12,1013,Kamran,Monitor,Electronics,1.0,30000.0,2024-01-10 00:00:00.000000,Multan,30000.0
+13,1014,Iqra,Webcam,Accessories,1.0,2200.0,2024-04-25 00:00:00.000000,Quetta,2200.0
+14,1015,Tariq,Mouse,Accessories,4.0,1500.0,2025-08-08 23:38:10.404748,Islamabad,6000.0
+15,1016,Saba,Speaker,Accessories,2.0,4500.0,2024-03-20 00:00:00.000000,Unknown,9000.0
+16,1017,Noman,Mobile,Electronics,1.0,40000.0,2024-02-15 00:00:00.000000,Peshawar,40000.0
+17,1018,Farah,Headphones,Accessories,1.0,3500.0,2024-01-10 00:00:00.000000,Faisalabad,3500.0
+18,1019,Danish,Charger,Accessories,2.0,17241.176470588234,2024-03-20 00:00:00.000000,Lahore,34482.35294117647
+19,1020,Bushra,Laptop,Electronics,1.0,50000.0,2024-02-15 00:00:00.000000,Karachi,50000.0

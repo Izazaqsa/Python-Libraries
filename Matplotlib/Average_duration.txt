@@ -1,0 +1,2 @@
+The average duration of movies : 99.57250040776383 minutes
+The average seasons of TV show : 1.764947683109118 seasons
